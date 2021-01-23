@@ -15,3 +15,4 @@
 2)Создать отдельный чат для мафий
 3)Создать рейтинг игроков
 4)Сделать бота многопоточным для игры из множества чатов одновременно
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sekret666/mafia_bot_public)
