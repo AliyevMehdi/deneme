@@ -41,7 +41,7 @@ def welcome(message):
    if startGameValue==0:
       #Отправляем стикер
       bot.send_sticker(message.chat.id, 'CAACAgIAAxkBAAIQC15-Zuo8YhfYe0MnBlkdXqT63MM6AAJBAANSiZEj1dZXStNkcVYYBA')
-      bot.send_message(message.chat.id, "Привет мафиозник, запусти меня и мы устроем месиво!")
+      bot.send_message(message.chat.id, "SAAAM QAGAAAAS")
       print("В чат вступил "+str(message.from_user.first_name))
 
 
