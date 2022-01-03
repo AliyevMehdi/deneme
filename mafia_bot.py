@@ -3,14 +3,14 @@ import telebot
 import random
 import time
 from telebot import types
-TOKEN = '1615610481:AAHPlLTfaFHYBo2h9Ot4IoxDG-W8avU6wnQ' #bot token from
+TOKEN = '5063281977:AAGjJ_XQNFUDcDIOcGPXuAUb0SjzPcxNyf8' #bot token from
 bot=telebot.TeleBot(TOKEN)
 global UserMas
 global Killmas
 global chatId
 global GROUP_ID
 global suisad
-GROUP_ID=-1001321030002  # Ваш ID группы  мафии
+GROUP_ID=--1001666110758  # Ваш ID группы  мафии
 mafia_don_list="Список мафии:\n"
 mir_list="Список мирных жителей:\n"
 mafWin=0
